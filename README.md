@@ -2,8 +2,12 @@
 This repository provides a beginner friendly learning path to learn building dynamic reporting template files (.XLST) in Altova StyleVision.
 
 Goals
-- [x] Understanding the use of Altova StyleVision
+- [x] Understanding the use for Altova StyleVision
 - [x] Understanding the technology XLST
+- [x] Learn to format, insert/edit contents
+- [x] Learn to apply logics and conditions
+- [x] Learn to implement report elements
+- [x] Learn to apply dynamic features such as variables and fragments
 
 
 # Basic guide contents
