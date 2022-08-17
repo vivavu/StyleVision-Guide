@@ -59,3 +59,9 @@ Advance live course use-cases (18 hours):
 - Progress reports (Voortgang rapportage)
 - Comparison reports with baseline
 - Document generator reports
+
+# Helpful sources
+[🔗 Altova StyleVision Manual](https://www.altova.com/manual/Stylevision/stylevisionenterprise/index.html)
+[🔗 Relatics Report Development](https://kb.relaticsonline.com/published//ShowObject.aspx?Key=3b0d72a9-88d4-e311-9406-00155de0940e)
+</br>[© copyright notice](LICENSE)
+
