@@ -15,7 +15,7 @@ Goals
 2. [Understanding of Altova StyleVision](./guides/2.Understanding.md)
 </br>2.1 How does it work?
 </br>2.2 Source contents XSD and XML
-3. Generate Template File XLST (Excel, Word and PDF)
+3. [Generate Template File XLST (Excel, Word and PDF)](./guides/3.GenerateTemplate.md)
 4. Formatting and markups
 </br>4.1 General formatting
 </br>4.2 Headers and footers
