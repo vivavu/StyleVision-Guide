@@ -2,8 +2,12 @@
 This repository provides a beginner friendly learning path to learn building dynamic reporting template files (.XLST) in Altova StyleVision for Relatics Workspace. It is recommended you have the know how for configurations in Relatics.
 
 Goals
-- [x] Understanding the use of Altova StyleVision
+- [x] Understanding the use for Altova StyleVision
 - [x] Understanding the technology XLST
+- [x] Learn to format, insert/edit contents
+- [x] Learn to apply logics and conditions
+- [x] Learn to implement report elements
+- [x] Learn to apply dynamic features such as variables and fragments
 
 
 # Basic guide contents
@@ -55,8 +59,3 @@ Advance live course use-cases (18 hours):
 - Progress reports (Voortgang rapportage)
 - Comparison reports with baseline
 - Document generator reports
-
-# Helpful sources
-[🔗 Altova StyleVision Manual](https://www.altova.com/manual/Stylevision/stylevisionenterprise/index.html)
-[🔗 Relatics Report Development](https://kb.relaticsonline.com/published//ShowObject.aspx?Key=3b0d72a9-88d4-e311-9406-00155de0940e)
-</br>[© copyright notice](LICENSE)
